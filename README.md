@@ -17,8 +17,6 @@ Welcome to TechnoEdge Power BI, your ultimate solution for dynamic sales analyti
 
 Explore your sales data like never before with TechnoEdge Power BI!
 
-![Power BI](link_to_power_bi_image)
-
 ## Getting Help
 For any issues or questions, please [open an issue](link_to_issues) or contact our support team.
 
